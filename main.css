@@ -1,0 +1,11 @@
+body{
+    background-color: darkslategrey;
+}
+#container{
+    background-color: #366868;
+    text-align: center;
+    height: 80px;
+    width: 100%;
+    padding-top: 4px;
+    margin: 0;
+}
